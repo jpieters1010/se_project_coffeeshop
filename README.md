@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+*Plan to add photos of shop and coffees
+*Update videos of recipes
+\*Change graphics and styling seasonally
