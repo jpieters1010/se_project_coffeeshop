@@ -19,6 +19,7 @@
 }
 
 .about__content {
+  margin-top: 19px;
   max-width: 660px;
   display: flex;
   flex-direction: column;
